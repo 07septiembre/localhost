@@ -11,7 +11,7 @@ este es un script para compartir archivos con ngrok.
 # bash localhost.sh
 
 les recuerdo: 
-con este script puedes compartir cuanquier arcchivo ya sea desde tu almacenamiento intermo,
+con este script puedes compartir cuanquier archivo ya sea desde tu almacenamiento intermo,
 o cualquier archivo que tengas en su sdcard.
 
 eliminar el script, ejecuta este comando:
