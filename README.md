@@ -1,5 +1,5 @@
 # localhost
-este es un script podras compartir archivos con ngrok.
+este es un script para compartir archivos con ngrok.
 
 #comandos a instalar:
 # pkg install python
