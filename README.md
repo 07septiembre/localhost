@@ -1,5 +1,5 @@
 # localhost
-este es un script para compartir archivos con ngrok.
+este es un script podras compartir archivos con ngrok.
 
 #comandos a instalar:
 # pkg install python
@@ -11,10 +11,10 @@ este es un script para compartir archivos con ngrok.
 # bash localhost.sh
 
 les recuerdo: 
-con este script puedes compartir cuanquier archivo ya sea desde tu almacenamiento intermo,
-o cualquier archivo que tengas en su sdcard.
+con este script, puedes compartir cualquier archivo ya sea desde tu almacenamiento interno,
+o cualquier archivo que tengas en tu sdcard.
 
-eliminar el script, ejecuta este comando:
+Para eliminar el script, ejecuta este comando:
 # rm -rf /data/data/com.termux/files/usr/bin/localhost.sh
 
 #link para ver el video.
