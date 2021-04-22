@@ -17,4 +17,10 @@ o cualquier archivo que tengas en su sdcard.
 eliminar el script, ejecuta este comando:
 # rm -rf /data/data/com.termux/files/usr/bin/localhost.sh
 
+#link para ver el video.
+https://youtu.be/n1Au1mTX-Xs
+
+#link para instalar ngrok
+https://youtu.be/2kv5rEnkogo
+
 att:dexter1999
